@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FPGA_Lattice)(type Legacy)(uri ${KIPRJMOD}/FPGA_Lattice.lib)(options "")(descr ""))
+)
